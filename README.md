@@ -12,9 +12,6 @@ User Story
 -Checkout my jewelry
 -Create an account to follow my orders
 
- 
-
-Rubric
 
 Design a database schema for products, users, orders, and customizations.
 
